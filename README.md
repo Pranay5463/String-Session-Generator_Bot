@@ -1,5 +1,5 @@
-# String_Session_Generator_TG-Bot
-Generate Pyrogram String Session Using this bot.
+## Pyrogram and Telethon String Session Generator Bot 
+> Generate Pyrogram String Session Using this bot.
 
 > Please give us a ⭐ whiich will mean a lot !
 
