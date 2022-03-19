@@ -8,12 +8,8 @@ Hey {}
 
 Welcome to {}
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
-
-Still reading?
-You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
+I can generate pyrogram and telethon string session . 
+Use the below button and go ahead !
 
 By @NotrealPranay
     """
