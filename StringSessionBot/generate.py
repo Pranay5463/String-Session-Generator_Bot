@@ -70,7 +70,7 @@ async def generate_session(bot, msg, telethon=False):
         await msg.reply('`PHONE_NUMBER` is invalid. Please start generating session again.', reply_markup=InlineKeyboardMarkup(Data.generate_button))
         return
     try:
-        phone_code_msg = await bot.ask(user_id, "Please check for an OTP in official telegram account. If you got it, send OTP here after reading the below format. \nIf OTP is `12345`, **please send it as** `1 2 3 4 5`.", filters=filters.text, timeout=600)
+        phone_code_msg = await bot.ask(user_id, "Please check for an OTP in Telegram app . \n\nIf you got it, send OTP here after reading the below format. \nIf OTP is `12345`, **please send it as** `1 2 3 4 5`.", filters=filters.text, timeout=600)
         if await cancelled(api_id_msg):
             return
     except TimeoutError:
