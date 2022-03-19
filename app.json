@@ -1,7 +1,7 @@
 {
-  "name": "Pyrogram String Session Generator",
-  "description": "Telegram bot to generate pyrogram string session",
-  "logo": "https://telegra.ph/file/7ec22c82f580a334dd13e.jpg",
+  "name": "Pyrogram and Telethon String Session Generator",
+  "description": "Telegram bot to generate pyrogram and telethon string session",
+  "logo": "https://telegra.ph/file/c194bf05822e178b46dcd.png",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/StringSessionBot",
+  "repository": "https://github.com/Pranay5463/String-Session-Generator_Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -33,17 +33,17 @@
       "value": "ANYTHING"
     },
     "API_ID": {
-      "description": "Get this value from my.telegram.org.",
+      "description": "Get it from my.telegram.org.",
       "required": true,
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org.",
+      "description": "Get it from my.telegram.org.",
       "required": true,
       "value": ""
     },
     "BOT_TOKEN": {
-      "description": "Obtain a Telegram bot token by contacting @BotFather",
+      "description": "Get your bot token from @BotFather",
       "required": true,
       "value": ""
     },
