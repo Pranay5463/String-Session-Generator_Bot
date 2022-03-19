@@ -13,9 +13,9 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 app = Client(
     ":memory:",
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH,
-    bot_token=Config.BOT_TOKEN,
+    api_id=config.API_ID,
+    api_hash=config.API_HASH,
+    bot_token=config.BOT_TOKEN,
     plugins=dict(root="StringSessionBot"),
 )
 
