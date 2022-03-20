@@ -16,7 +16,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pranay5463/String-Session-Generator_Bot)
 
 ## Support Chat:
-<a href="https://www.t.me/NotrealPranay"><img src="https://img.shields.io/badge/Telegram-get help on %20Telegram%20Chat-blue.svg?logo=telegram"></a>
+<a href="https://t.me/NotrealPranay"><img src="https://img.shields.io/badge/Telegram-get help on %20Telegram%20Chat-blue.svg?logo=telegram"></a>
 
 ## Coded By
 - [Pranay Prangan](https://github.com/Pranay5463)
@@ -31,7 +31,7 @@ This repo is uploaded manually instead of forking. The credit of this repo goes 
 <a href="https://github.com/Pranay5463"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://www.t.me/NotrealPranay"><img src="https://img.shields.io/badge/Telegram-Message%20on%20Telegram-blue.svg?logo=telegram"></a>
+<a href="https://t.me/NotrealPranay"><img src="https://img.shields.io/badge/Telegram-Message%20on%20Telegram-blue.svg?logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://instagram.com/dark_elite_98"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
