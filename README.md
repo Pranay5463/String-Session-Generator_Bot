@@ -4,7 +4,7 @@
 > Please give us a ⭐ whiich will mean a lot !
 
 ## Demo Bot:
-<a href="https://t.me/StringSessionGen_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/StringSessionGeneratorz_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - `API_HASH` - Get it from [my.telegram.org](https://my.telegram.org/auth)
