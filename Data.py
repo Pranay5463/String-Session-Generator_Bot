@@ -32,7 +32,7 @@ By @NotrealPranay
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/NotrealPranay")],
+        [InlineKeyboardButton(" Get Help ↗️", url="https://t.me/+9SetglBX6YY0OWRh")],
     ]
 
     # Help Message
