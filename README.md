@@ -1,7 +1,7 @@
 ## Pyrogram and Telethon String Session Generator Bot 
 > Generate Pyrogram String Session Using this bot.
 
-> Please give us a ⭐ whiich will mean a lot !
+> Please give us a ⭐ which will mean a lot !
 
 ## Demo Bot:
 <a href="https://t.me/StringSessionGeneratorz_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
@@ -20,8 +20,7 @@
 
 ## Coded By
 - [Pranay Prangan](https://github.com/Pranay5463)
-- [Main repo](https://github.com/StarkBotsIndustries/StringSessionBot)
-- Rest credit goes to the people's effort on making this.
+- Rest goes to respective owner
 
 ## Note:
 This repo is uploaded manually instead of forking. The credit of this repo goes to their respective owners . I just partially own this and just edited some of the files .
