@@ -22,8 +22,6 @@
 - [Pranay Prangan](https://github.com/Pranay5463)
 - Rest goes to respective owner
 
-## Note:
-This repo is uploaded manually instead of forking. The credit of this repo goes to their respective owners . I just partially own this and just edited some of the files .
 
 ## Follow on:
 <p align="left">
