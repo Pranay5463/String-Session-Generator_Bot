@@ -16,7 +16,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pranay5463/String-Session-Generator_Bot)
 
 ## Support Group:
-<a href="https://t.me/+9SetglBX6YY0OWRh"><img src="https://img.shields.io/badge/Telegram-get help on %20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/goblinlabssupport"><img src="https://img.shields.io/badge/Telegram-get help on %20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Coded By
 - [Pranay Prangan](https://github.com/Pranay5463)
