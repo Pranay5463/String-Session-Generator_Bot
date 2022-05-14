@@ -12,7 +12,7 @@ async def fsub(Client, Message):
         except UserNotParticipant:
             await Client.send_message(
                 id,
-                "Join",
+                "Join My Updates Channel To Use Me!",
                 reply_to_message_id = Message.message_id,
                 reply_markup = InlineKeyboardMarkup(
                     [ 
