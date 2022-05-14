@@ -20,6 +20,7 @@
 
 ## Coded By
 - [Pranay Prangan](https://github.com/Pranay5463)
+- [Vikrant Ojha](https://github.com/TheMalware)
 - Rest goes to respective owner
 
 
