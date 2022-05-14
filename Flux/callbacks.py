@@ -2,7 +2,7 @@ import traceback
 from Data import Data
 from pyrogram import Client
 from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
-from StringSessionBot.generate import generate_session
+from Flux.generate import generate_session
 
 @Client.on_callback_query()
 async def _callbacks(bot: Client, callback_query: CallbackQuery):
