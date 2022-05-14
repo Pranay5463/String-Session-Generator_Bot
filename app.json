@@ -1,56 +1,43 @@
 {
-  "name": "Pyrogram and Telethon String Session Generator",
-  "description": "Telegram bot to generate pyrogram and telethon string session",
-  "logo": "https://telegra.ph/file/c194bf05822e178b46dcd.png",
+  "name": "Flux",
+  "description": "Flux",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/788px-Adobe_InDesign_CC_icon.svg.png",
   "keywords": [
-    "telegram",
-    "bot",
-    "python",
-    "pyrogram"
+    "Telegram",
+    "Pyrogram",
+    "InfoBot",
+    "ID"
   ],
-    "buildpacks": [{
+  "repository": "https://github.com/TheMalware",
+  "website": "https://themalware.tk",
+  "success_url": "https://t.me/FluxBots",
+  "env": {
+    "API_ID": {
+      "description": "Get This From my.telegram.org"
+    },
+    "API_HASH": {
+      "description": "Get This From my.telegram.org"
+    },
+    "BOT_TOKEN": {
+      "description": "Get This From @BotFather"
+    },
+    "MONGO_URI": {
+      "description": "Get This From mongodb.com"
+    },
+    "OWNER_ID": {
+      "description": "UserID of Owner And Not Username"
+    },
+    "UPDATES_CHANNEL": {
+      "description": "Username Of Channel With @"
+    }
+  },
+  "buildpacks": [{
     "url": "heroku/python"
   }],
   "formation": {
     "worker": {
       "quantity": 1,
       "size": "free"
-    }
-  },
-  "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
-  "repository": "https://github.com/Pranay5463/String-Session-Generator_Bot",
-  "env": {
-    "ENVIRONMENT": {
-      "description": "Don't change ANYTHING.",
-      "required": true,
-      "value": "ANYTHING"
-    },
-    "API_ID": {
-      "description": "Get it from my.telegram.org.",
-      "required": true,
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "Get it from my.telegram.org.",
-      "required": true,
-      "value": ""
-    },
-    "BOT_TOKEN": {
-      "description": "Get your bot token from @BotFather",
-      "required": true,
-      "value": ""
-    },
-    "MUST_JOIN": {
-      "description": "Add username/id of a channel/group",
-      "required": false,
-      "value": ""
     }
   }
 }
