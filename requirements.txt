@@ -1,6 +1,6 @@
-git+https://github.com/pyrogram/pyrogram.git
-Telethon
-TgCrypto
-SQLAlchemy
-psycopg2
+pyrogram==1.4.16
+telethon
+tgcrytpo
+pymongo
+cpython
 pyromod
