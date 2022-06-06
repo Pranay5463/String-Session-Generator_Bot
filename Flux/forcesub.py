@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.errors import UserNotParticipant
 from configs import Config
 
-@Client.on_message(filters.private)
+@Client.on_message(filters.private, group=-1)
 async def fsub(Client, Message):
     id = Message.from_user.id
     if Config.UPDATES_CHANNEL:
