@@ -1,4 +1,4 @@
-pyrogram==1.4.16
+pyrogram==1.4.12
 telethon==1.24.0
 tgcrytpo
 pymongo
