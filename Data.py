@@ -4,15 +4,14 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+ʜᴇʟʟᴏ {}
 
-Welcome to {}
+ᴡᴇʟʟᴄᴏᴍᴇ ᴛᴏ ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ. 
 
-I can generate pyrogram and telethon string session . 
-Use the below button and go ahead !
+ɪ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ. 
 
-By @NotrealPranay
-    """
+ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ: [ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs](https://t.me/telugucoders) 
+"""
 
     # Home Button
     home_buttons = [
@@ -21,7 +20,7 @@ By @NotrealPranay
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴇ ғʀᴏᴍ ʜᴇʀᴇ", callback_data="generate")]
     ]
 
     # Rest Buttons
