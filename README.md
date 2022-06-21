@@ -2,4 +2,4 @@
 A String Session Session Generator Bot , Built in Python . It can help you create Pyrogram and Telethon String .
 
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/santhumusic/String-Session-Generator_Bot/tree/patch-1)
